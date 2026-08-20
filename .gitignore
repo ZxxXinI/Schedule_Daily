@@ -1,0 +1,11 @@
+# Local automation state and transient files
+.automation-logs/
+
+# Runtime locks and idempotency markers
+**/.reminder-*.lock
+**/.sent-*
+**/.wechat-*.txt
+
+# OS/editor files
+.DS_Store
+*.swp
