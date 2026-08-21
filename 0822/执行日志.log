@@ -1,3 +1,10 @@
 2026-08-22 06:05:01 CST [0605] injected into pi-bot:0.0
 2026-08-22 06:05 CST [0605] 日计划已生成，等待脚本发送
 2026-08-22 06:05:48 CST [0605] WeChat API delivery succeeded
+2026-08-22 06:05:51 CST [0605] git commit/push failed; see .automation-logs/git-2026-08-22.log
+2026-08-22 06:15:01 CST [0615] injected into pi-bot:0.0
+2026-08-22 06:15 CST [0615] 已生成，等待脚本发送
+2026-08-22 06:15:17 CST [0615] WeChat API delivery failed
+2026-08-22 06:35:01 CST [0635] injected into pi-bot:0.0
+2026-08-22 06:35 CST [0635] 已生成，等待脚本发送
+2026-08-22 06:35:18 CST [0635] WeChat API delivery failed

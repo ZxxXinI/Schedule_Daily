@@ -1,3 +1,22 @@
 2026-08-20 08:52:02 CST [0605] injected into pi-bot:0.0
 2026-08-20 08:52 CST [0605] 日计划已生成；已提交微信转发
 2026-08-20 08:59:50 CST [manual] WeChat API delivery succeeded after extension limitation diagnosis
+2026-08-20 14:05:01 CST [0605] skipped: already sent
+2026-08-20 14:15:01 CST [0615] injected into pi-bot:0.0
+2026-08-20 14:15 CST [0615] 已生成，等待脚本发送
+2026-08-20 14:15:18 CST [0615] WeChat API delivery succeeded
+2026-08-20 14:35:02 CST [0635] injected into pi-bot:0.0
+2026-08-20 14:35 CST [0635] 已生成，等待脚本发送
+2026-08-20 14:35:17 CST [0635] WeChat API delivery succeeded
+2026-08-20 17:30:02 CST [1730] injected into pi-bot:0.0
+2026-08-20 17:30 CST [1730] 已生成，等待脚本发送
+2026-08-20 17:30:18 CST [1730] WeChat API delivery succeeded
+2026-08-20 19:00:02 CST [1900] injected into pi-bot:0.0
+2026-08-20 19:00 CST [1900] 已生成，等待脚本发送
+2026-08-20 19:00:19 CST [1900] WeChat API delivery succeeded
+2026-08-20 21:00:01 CST [2100] injected into pi-bot:0.0
+2026-08-20 21:00 CST [2100] 已生成，等待脚本发送
+2026-08-20 21:00:18 CST [2100] WeChat API delivery succeeded
+2026-08-20 22:15:01 CST [2215] injected into pi-bot:0.0
+2026-08-20 22:15 CST [2215] 已生成，等待脚本发送
+2026-08-20 22:15:22 CST [2215] WeChat API delivery succeeded

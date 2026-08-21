@@ -11,6 +11,10 @@ day_dir="$mmdd"
 log_file="$day_dir/执行日志.log"
 [[ -d "$day_dir" ]] || { echo "Daily folder does not exist: $day_dir" >&2; exit 1; }
 
+# 每天先同步远程主分支，再提交当天记录并推送。
+git fetch origin main
+git rebase origin/main
+
 # Commit only real daily records, never transient lock/marker files.
 git add -- "$day_dir/每日安排.md" "$day_dir/微信简要安排.txt" "$day_dir/执行日志.log"
 if git diff --cached --quiet; then
